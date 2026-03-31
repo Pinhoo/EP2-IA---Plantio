@@ -7,3 +7,8 @@ Na pasta src voce pode encontrar o nosso programa .py onde você pode executar a
 
 Exemplo de comando:
 python EP2.py --pop 100 --gen 200 --mut 0.2
+
+Trabalho feito por:
+Lucas de Pinho Ribeiro dos Santos
+Jefferson Santana Nogueira
+João Pedro Ferreira da Rocha
